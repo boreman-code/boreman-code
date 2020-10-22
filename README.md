@@ -5,3 +5,4 @@ Hello! I'm a beginer Java developer. I'm currently taking a Java development cou
 
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-828282?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/-CSS-828282?style=for-the-badge&logo=css&logoColor=039BE5)
