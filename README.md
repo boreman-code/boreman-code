@@ -4,7 +4,7 @@
 Hello! I'm a beginer Java developer. I'm currently taking a Java development course at skillbox. I've already working with jsoup, log4j, multithreading, Hibernate, etc.
 
 ## Languages and Tools
-![Java](https://img.shields.io/badge/-Java-C1CBD4?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-C1CBD4?style=for-the-badge&logo=java&logoColor=007396)
 ![Java](https://img.shields.io/badge/-HTML-C1CBD4?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![Java](https://img.shields.io/badge/-CSS-C1CBD4?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/-jsoup-C1CBD4?style=for-the-badge)
