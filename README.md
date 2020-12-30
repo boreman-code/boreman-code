@@ -12,6 +12,8 @@ Hello! I'm a beginer Java developer. I'm currently taking a Java development cou
 ![Java](https://img.shields.io/badge/-log4j-EDF1F5?style=for-the-badge&logo=Apache&logoColor=D22128)
 ![Java](https://img.shields.io/badge/-JUnit-EDF1F5?style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Git-EDF1F5?style=for-the-badge&logo=Git&logoColor=F05032)
+![Java](https://img.shields.io/badge/-Thymeleaf-EDF1F5?style=for-the-badge&logo=Thymeleaf&logoColor=#005F0F)
+![Java](https://img.shields.io/badge/-Spring-EDF1F5?style=for-the-badge&logo=Spring&logoColor=#6DB33F)
 ![Java](https://img.shields.io/badge/-Hibernate-EDF1F5?style=for-the-badge)
 #
 
