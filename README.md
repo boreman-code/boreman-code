@@ -1,7 +1,7 @@
 [![Header](https://github.com/boreman-code/boreman-code/blob/main/assets/mounts.png)](https://github.com/boreman-code)
 
 ## About me
-Hello! I'm a beginer Java developer. I'm currently taking a Java development course at skillbox.
+Hello! I'm a beginer Java developer.
 
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-EDF1F5?style=for-the-badge&logo=java&logoColor=007396)
