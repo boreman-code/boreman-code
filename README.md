@@ -5,6 +5,7 @@ Hello! I'm a Java and Kotlin developer.
 
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-EDF1F5?style=for-the-badge&logo=java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-EDF1F5?style=for-the-badge&logo=kotlin&logoColor=C001FF)
 ![Java](https://img.shields.io/badge/-HTML-EDF1F5?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![Java](https://img.shields.io/badge/-CSS-EDF1F5?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/-MySQL-EDF1F5?style=for-the-badge&logo=MySQL&logoColor=4479A1)
